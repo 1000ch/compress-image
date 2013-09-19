@@ -8,50 +8,70 @@
 
 ![](png24.png)
 
-### png8 256colors
++ datauri 77646byte
++ datauri.gz 58719byte
++ binary 58217byte
 
-14KB
+### png8 256colors
 
 ![](png8-256.png)
 
-### png8 128colors
++ datauri 19014byte
++ datauri.gz 14402byte
++ binary 14244byte
 
-11KB
+### png8 128colors
 
 ![](png8-128.png)
 
-### png8 64colors
++ datauri 15102byte
++ datauri.gz 11446byte
++ binary 11309byte
 
-9KB
+### png8 64colors
 
 ![](png8-64.png)
 
-### png8 32colors
++ datauri 11594byte
++ datauri.gz 8798byte
++ binary 8677byte
 
-7KB
+### png8 32colors
 
 ![](png8-32.png)
 
-### png8 16colors
++ datauri 8730byte
++ datauri.gz 6636byte
++ binary 6531byte
 
-6KB
+### png8 16colors
 
 ![](png8-16.png)
 
-### png8 8colors
++ datauri 7682byte
++ datauri.gz 5848byte
++ binary 5745byte
 
-4KB
+### png8 8colors
 
 ![](png8-8.png)
 
-### png8 4colors
++ datauri 5594byte
++ datauri.gz 4264byte
++ binary 4179byte
 
-3KB
+### png8 4colors
 
 ![](png8-4.png)
 
++ datauri 3766byte
++ datauri.gz 2897byte
++ binary 2807byte
+
 ### png8 2colors
 
-1KB
-
 ![](png8-2.png)
+
++ datauri 1558byte
++ datauri.gz 1230byte
++ binary 1150byte
